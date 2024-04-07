@@ -1,0 +1,10 @@
+@import url('./basic.css');
+
+body {
+    background: linear-gradient(90deg, #b9deed, #efefef);
+    height: 100vh;
+}
+
+a {
+    text-decoration: none;
+}

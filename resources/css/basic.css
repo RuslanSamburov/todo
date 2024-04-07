@@ -1,0 +1,7 @@
+.todos {
+    min-width: 700px;
+}
+
+.todo-title:hover {
+    text-decoration: underline;
+}
